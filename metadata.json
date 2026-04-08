@@ -1,0 +1,5 @@
+{
+  "name": "TrigCircle: Interactive Unit Circle Explorer",
+  "description": "A comprehensive interactive tool for mastering the unit circle, featuring exact fraction coordinates, dynamic trig waves, and self-quizzing modes.",
+  "requestFramePermissions": []
+}
